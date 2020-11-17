@@ -1,0 +1,12 @@
+{
+  "name": "pirus-native-expo",
+  "displayName": "pirus-native-expo",
+  "expo": {
+    "name": "pirus-native-expo",
+    "slug": "pirus-native-expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
